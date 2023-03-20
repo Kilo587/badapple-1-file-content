@@ -1,5 +1,6 @@
 # badapple-1-file-content
 ```
+git config --global user.name "Bad Apple!!"
 git branch badapple
 git checkout badapple
 git add play.txt
